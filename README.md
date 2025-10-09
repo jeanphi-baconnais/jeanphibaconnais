@@ -18,3 +18,7 @@ Co organizer at [Human Talks live & Nantes](https://humantalks.com/) and [GitLab
 - [Dev.to](https://dev.to/jphi_baconnais)
 - [SpeakerDeck](https://speakerdeck.com/jeanphibaconnais)
 
+
+## 
+
+[![An image of @jeanphibaconnais's Holopin badges](https://holopin.me/jeanphibaconnais)](https://holopin.io/@jeanphibaconnais)
