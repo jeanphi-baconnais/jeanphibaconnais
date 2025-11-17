@@ -6,8 +6,9 @@
 
 ⛅ Google Developer Expert (GDE) Cloud
 
-Co organizer at [Human Talks live & Nantes](https://humantalks.com/) and [GitLab France](https://www.meetup.com/fr-FR/gitlab-meetup-france/)
+Co organizer [GitLab France](https://www.meetup.com/fr-FR/gitlab-meetup-france/)
 
+(ex Co organizer [Human Talks live & Nantes](https://humantalks.com/))
 
 ## 💬  You can find me on 
 
